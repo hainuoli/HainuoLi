@@ -1,4 +1,4 @@
-# <img src="./assets/header.svg" width="250" alt="Header">
+# <img src="./assets/header.svg" width="300" alt="Header">
 
 <img src="./assets/biography.svg" width="650" alt="Biography">
 
