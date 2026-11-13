@@ -1,4 +1,6 @@
-# <img src="./assets/header.svg" width="300" alt="Header">
+<img align="right" src="./assets/skill.svg" width="350" alt="Go, TypeScript and Python">
+
+<h1><img src="./assets/header.svg" width="300" alt="Header"></h1>
 
 <img src="./assets/biography.svg" width="650" alt="Biography">
 
