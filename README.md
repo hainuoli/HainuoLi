@@ -44,4 +44,4 @@
 
 <br clear="left">
 
-<img align="center" src="./assets/coding.gif" alt="Coding">
+<p align="center"><img src="./assets/coding.gif" width="250" alt="Coding"></p>
