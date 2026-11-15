@@ -43,3 +43,5 @@
 </p>
 
 <br clear="left">
+
+<img align="center" src="./assets/coding.gif" alt="Coding">
