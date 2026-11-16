@@ -44,4 +44,18 @@
 
 <br clear="left">
 
+<p><img src="./assets/underline.svg" width="100%" height="8" alt="Underline"></p>
+
+<!-- Mino -->
+<img align="left" hspace="39" vspace="24" alt="Mino logo" src="https://raw.githubusercontent.com/hainuoli/mino-doc/main/public/brand/svg/mino-avatar-light.svg" height="92">
+
+<h3>mino<img align="right" src="https://img.shields.io/github/stars/hainuoli/mino?style=flat-square&amp;color=gold" alt="Mino stars"></h3>
+
+<p>A progressive Go toolkit. Small packages, familiar APIs.</p>
+
+<p><a href="https://github.com/hainuoli/mino">Repo</a></p>
+
+<br clear="left">
+<br clear="left">
+
 <p align="center"><img src="./assets/coding.gif" width="150" alt="Coding"></p>
